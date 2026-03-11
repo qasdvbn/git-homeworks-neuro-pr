@@ -6,6 +6,11 @@ body {
     margin: 0 auto;
 }
 
+section {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
 #promo {
     background: #264fb4;
     height: 800px;
@@ -29,6 +34,11 @@ body {
     color: #f0f0f0;
 }
 
+.jumbotron {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
 #contacts {
     background: #f5f4f4;
 }
@@ -42,8 +52,9 @@ body {
 }
 
 footer {
+    margin-top: 5em;
     color: #fff;
     background: #1f1f1f;
-    padding-top: 30px;
-    padding-bottom: 10px;
+    padding-top: 2em;
+    padding-bottom: 1em;
 }
